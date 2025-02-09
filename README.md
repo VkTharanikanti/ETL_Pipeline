@@ -24,6 +24,6 @@ The pipeline extracts data from a CSV file, transforms it (data cleaning & forma
 
 
 📜 Author
-👤 [Your Name]
-📧 Contact: your_email@example.com
+👤 [Venkatakrishna Sharma]
+📧 Contact: venkatakrishna1911@gmail.com
 🔗 GitHub: VkTharanikanti
